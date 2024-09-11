@@ -1,0 +1,11 @@
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\bin\Debug\net8.0\AdventureGameClassLibrary.deps.json
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\bin\Debug\net8.0\AdventureGameClassLibrary.dll
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\bin\Debug\net8.0\AdventureGameClassLibrary.pdb
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\AdventureGameClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\AdventureGameClassLibrary.AssemblyInfoInputs.cache
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\AdventureGameClassLibrary.AssemblyInfo.cs
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\AdventureGameClassLibrary.csproj.CoreCompileInputs.cache
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\AdventureGameClassLibrary.dll
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\refint\AdventureGameClassLibrary.dll
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\AdventureGameClassLibrary.pdb
+C:\Datamatiker\3. Semester\Programmering\Lektion 2\Kode\AdventureGame\AdventureGameClassLibrary\obj\Debug\net8.0\ref\AdventureGameClassLibrary.dll
